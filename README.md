@@ -3,7 +3,7 @@ Here some exemple of little GUI applications with Ruby/Gtk/Ruiby.
 
 Bourse.rb
 --
-![bourse](https://raw.githubusercontent.com/glurp/ruiby_examples/master/bourse.png)
+![bourse](https://raw.githubusercontent.com/glurp/ruiby_examples/master/bourses.png)
 
 
 ripconfig.rb
