@@ -1,16 +1,20 @@
 
 Here some exemple of little GUI applications with Ruby/Gtk/Ruiby.
 
-= Bourse.rb
+Bourse.rb
+--
 ![bourse](https://raw.githubusercontent.com/glurp/ruiby_examples/master/bourse.png)
 
 
-= ripconfig.rb
+ripconfig.rb
+--
 ![ipconfig](https://raw.githubusercontent.com/glurp/ruiby_examples/master/ripconfig.png)
 
 
-= notes.rb
+notes.rb
+--
 ![notes](https://raw.githubusercontent.com/glurp/ruiby_examples/master/notes.png)
 
-= sgrep.rb
+sgrep.rb
+--
 ![sgrep](https://raw.githubusercontent.com/glurp/ruiby_examples/master/sgrep.png)
