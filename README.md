@@ -1,5 +1,5 @@
 
-Here some exemple of little GUI applications with Ruby/Gtk/Ruiby.
+Here some exemple of little GUI applications with Ruby/Gtk/Ruiby, running on Window$.
 
 Bourse.rb
 --
