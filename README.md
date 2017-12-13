@@ -18,3 +18,7 @@ notes.rb
 sgrep.rb
 --
 ![sgrep](https://raw.githubusercontent.com/glurp/ruiby_examples/master/sgrep.png)
+
+Licenses
+===
+Free, as beer
